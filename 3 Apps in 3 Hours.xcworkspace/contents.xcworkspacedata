@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "1. WebBrowse">
+      <FileRef
+         location = "group:1. WebBrowse/WebBrowse.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "2. Noted">
+      <FileRef
+         location = "group:2. Noted/Noted.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "3. iTunesMovies">
+      <FileRef
+         location = "group:3. iTunesMovies/iTunesMovies.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+</Workspace>
